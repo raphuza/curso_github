@@ -1,3 +1,3 @@
 # Bem vindo ao curso github
 
-Descrição do README
+Descrição do README.md
